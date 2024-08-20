@@ -1,7 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Batool Abbas
 logo: /assets/img/face.png
-description: Personal website.
 
 plugins:
 - jekyll-remote-theme
