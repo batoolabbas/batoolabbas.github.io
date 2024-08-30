@@ -4,7 +4,7 @@ logo: <img src="/assets/img/face.png" /></a>
 description: LinkedIn
 
 name: LinkedIn
-    icon: <i class="fa-brands fa-github"></i>
+    icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/batool-abbas
 
 plugins:
