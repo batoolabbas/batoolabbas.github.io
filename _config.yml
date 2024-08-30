@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Batool Abbas
 logo: <img src="/assets/img/face.png" /></a>               
-name: LinkedIn
+description: LinkedIn
     icon: <i class="fa-brands fa-github"></i>
     link: https://www.linkedin.com/in/batool-abbas
 
