@@ -1,6 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Batool Abbas
-description: <a href="https://www.linkedin.com/in/batool-abbas"> <img src="/assets/img/face.png" /></a>               
+logo: <img src="/assets/img/face.png" /></a>               
+name: LinkedIn
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://www.linkedin.com/in/batool-abbas
 
 plugins:
 - jekyll-remote-theme
