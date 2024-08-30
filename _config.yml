@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Batool Abbas
-logo: ![My face](/assets/img/face.png)               
-description: [![LinkedIn logo from Font Awesome](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/batool-abbas)
+logo: /assets/img/face.png               
+description: <a href="https://www.linkedin.com/in/batool-abbas"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn logo from Font Awesome" width="50" height="50"></a>
 
 plugins:
 - jekyll-remote-theme
