@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
-#logo{
+#face{
 	  border-radius: 50%;
+	  width: 150;
+	  height:150;
+}
+
+#logo{
+	width: 20;
+	height: 20;
 }
